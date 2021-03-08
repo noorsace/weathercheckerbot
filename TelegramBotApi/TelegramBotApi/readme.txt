@@ -1,0 +1,1 @@
+Hello! My name is Nurdaulet Sagyndyk and I'm from IT-2006.This is my endterm project, it's a telegram bot that helps you to find out weather forecast for your city.
